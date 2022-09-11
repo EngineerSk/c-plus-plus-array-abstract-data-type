@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ArrayAbstractDataType",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ArrayAbstractDataType::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArrayAbstractDataType-Debug-0937deb0fe4f5bd56bdf.json",
+					"name" : "ArrayAbstractDataType",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/ArrayAbstractDataType/ArrayAbstractDataType/cmake-build-debug",
+		"source" : "/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/ArrayAbstractDataType/ArrayAbstractDataType"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
